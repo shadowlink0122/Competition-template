@@ -1,0 +1,2 @@
+# Competition-template
+For C++
